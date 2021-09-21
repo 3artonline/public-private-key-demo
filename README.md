@@ -1,7 +1,7 @@
 # Klucz Publiczny/Klucz Prywatny Demo
-Internetowa demonstracja koncepcji par kluczy publicznych i prywatnych.
+Internetowa demonstracja koncepcji pary kluczy publicznej i prywatnej.
 
-Jest to bardzo podstawowe wizualne wprowadzenie do pojęć związanych z parą kluczy publicznych / prywatnych, podpisywanie i ich wykorzystanie w kontekście technologii blockchain. Przetłumaczone ze źródła Andersa Brownworth
+Jest to bardzo podstawowe wizualne wprowadzenie do pojęć związanych z parą kluczy: publicznego / prywatnego, podpisywania i ich wykorzystania w kontekście technologii blockchain. Przetłumaczone z repozytorium autorstwa Andersa Brownworth
 
 ## Setup
 Skopiuj kod:
