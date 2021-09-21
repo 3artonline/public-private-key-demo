@@ -1,34 +1,31 @@
-# Publick Key / Private Key Demo
-A web-based demonstration of public / private key pair concepts.
+# Klucz Publiczny/Klucz Prywatny Demo
+Internetowa demonstracja koncepcji par kluczy publicznych i prywatnych.
 
-[![Blockchain 101 - Demo](https://img.youtube.com/vi/xIDL_akeras/0.jpg)](https://www.youtube.com/watch?v=xIDL_akeras)
-
-This is a very basic visual introduction to the concepts behind a public / private key pair, signing and their use in a blockchain context.
+Jest to bardzo podstawowe wizualne wprowadzenie do pojęć związanych z parą kluczy publicznych / prywatnych, podpisywanie i ich wykorzystanie w kontekście technologii blockchain. Przetłumaczone ze źródła Andersa Brownworth
 
 ## Setup
-Get the code:
+Skopiuj kod:
 
 ```
 git clone https://github.com/anders94/public-private-key-demo.git
 ```
 
-Install dependencies:
+Zainstaluj wymagane biblioteki:
 
 ```
 cd public-private-key-demo
 npm install
 ```
-Run the server:
+uruchom server:
 
 ```
 ./bin/www
 ```
 
-Point a web browser at the demo:
+Uruchom poniższy adres w przeglądarce swojego komputera:
 
 ```
 http://localhost:3000
 ```
 
-## Send Thanks
-Bitcoin greatfully accepted: `1K3NvcuZzVTueHW1qhkG2Cm3viRkh2EXJp`
+## podziękowania dla Andersa Brownworth, którego kod tutaj tłumaczymy
