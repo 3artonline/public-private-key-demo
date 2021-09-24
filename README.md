@@ -7,7 +7,7 @@ Jest to bardzo podstawowe wizualne wprowadzenie do pojęć związanych z parą k
 Skopiuj kod:
 
 ```
-git clone https://github.com/anders94/public-private-key-demo.git
+git clone https://github.com/3artonline/public-private-key-demo.git
 ```
 
 Zainstaluj wymagane biblioteki:
